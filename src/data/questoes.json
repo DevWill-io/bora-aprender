@@ -1,0 +1,122 @@
+{
+  "questoes": [
+    {
+      "id": 1,
+      "materia": "Matemática",
+      "dificuldade": "fácil",
+      "pergunta": "Qual é o resultado de 2 + 2?",
+      "opcoes": ["3", "4", "5", "6"],
+      "resposta_correta": 1,
+      "explicacao": "2 + 2 = 4. A soma de dois números iguais a 2 resulta em 4."
+    },
+    {
+      "id": 2,
+      "materia": "Matemática",
+      "dificuldade": "médio",
+      "pergunta": "Qual é a área de um quadrado com lado de 5 cm?",
+      "opcoes": ["10 cm²", "15 cm²", "20 cm²", "25 cm²"],
+      "resposta_correta": 3,
+      "explicacao": "A área de um quadrado é lado × lado = 5 × 5 = 25 cm²."
+    },
+    {
+      "id": 3,
+      "materia": "Matemática",
+      "dificuldade": "difícil",
+      "pergunta": "Qual é a raiz quadrada de 144?",
+      "opcoes": ["10", "11", "12", "13"],
+      "resposta_correta": 2,
+      "explicacao": "√144 = 12, pois 12 × 12 = 144."
+    },
+    {
+      "id": 4,
+      "materia": "Programação",
+      "dificuldade": "fácil",
+      "pergunta": "Qual linguagem é usada para estilizar páginas web?",
+      "opcoes": ["Python", "CSS", "Java", "C++"],
+      "resposta_correta": 1,
+      "explicacao": "CSS (Cascading Style Sheets) é a linguagem utilizada para estilizar elementos HTML e criar layouts bonitos."
+    },
+    {
+      "id": 5,
+      "materia": "Programação",
+      "dificuldade": "médio",
+      "pergunta": "O que é uma função em programação?",
+      "opcoes": [
+        "Um bloco de código reutilizável que realiza uma tarefa específica",
+        "Uma variável que armazena números",
+        "Um tipo de loop infinito",
+        "Um arquivo de configuração"
+      ],
+      "resposta_correta": 0,
+      "explicacao": "Uma função é um bloco de código reutilizável que pode ser chamado várias vezes para executar uma tarefa específica."
+    },
+    {
+      "id": 6,
+      "materia": "Programação",
+      "dificuldade": "difícil",
+      "pergunta": "Qual é a complexidade de tempo do algoritmo de busca binária?",
+      "opcoes": ["O(n)", "O(log n)", "O(n²)", "O(1)"],
+      "resposta_correta": 1,
+      "explicacao": "A busca binária tem complexidade O(log n) porque divide o array pela metade a cada iteração."
+    },
+    {
+      "id": 7,
+      "materia": "História",
+      "dificuldade": "fácil",
+      "pergunta": "Em que ano Cristóvão Colombo chegou às Américas?",
+      "opcoes": ["1490", "1491", "1492", "1493"],
+      "resposta_correta": 2,
+      "explicacao": "Cristóvão Colombo chegou às Américas em 1492, marcando o início da era de exploração europeia."
+    },
+    {
+      "id": 8,
+      "materia": "História",
+      "dificuldade": "médio",
+      "pergunta": "Qual foi o primeiro presidente do Brasil?",
+      "opcoes": ["Dom Pedro I", "Getúlio Vargas", "Deodoro da Fonseca", "Afonso Pena"],
+      "resposta_correta": 2,
+      "explicacao": "Deodoro da Fonseca foi o primeiro presidente da República do Brasil, de 1891 a 1894."
+    },
+    {
+      "id": 9,
+      "materia": "História",
+      "dificuldade": "difícil",
+      "pergunta": "Em que ano terminou a Segunda Guerra Mundial?",
+      "opcoes": ["1943", "1944", "1945", "1946"],
+      "resposta_correta": 2,
+      "explicacao": "A Segunda Guerra Mundial terminou em 1945, com a rendição do Japão em setembro."
+    },
+    {
+      "id": 10,
+      "materia": "Inglês",
+      "dificuldade": "fácil",
+      "pergunta": "Como se diz 'olá' em inglês?",
+      "opcoes": ["Goodbye", "Hello", "Thank you", "Please"],
+      "resposta_correta": 1,
+      "explicacao": "'Hello' é a forma mais comum de dizer 'olá' em inglês."
+    },
+    {
+      "id": 11,
+      "materia": "Inglês",
+      "dificuldade": "médio",
+      "pergunta": "Qual é o Present Perfect do verbo 'to go'?",
+      "opcoes": ["I go", "I went", "I have gone", "I will go"],
+      "resposta_correta": 2,
+      "explicacao": "O Present Perfect do verbo 'to go' é 'have gone' ou 'has gone' (have + past participle)."
+    },
+    {
+      "id": 12,
+      "materia": "Inglês",
+      "dificuldade": "difícil",
+      "pergunta": "Qual frase está gramaticalmente correta?",
+      "opcoes": [
+        "He don't like pizza",
+        "She go to school every day",
+        "They have finished their homework",
+        "I is a student"
+      ],
+      "resposta_correta": 2,
+      "explicacao": "'They have finished their homework' está gramaticalmente correta. As outras têm erros de concordância verbal."
+    }
+  ]
+}
